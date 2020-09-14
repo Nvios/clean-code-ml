@@ -47,3 +47,4 @@ Inspired by [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-
 If you'd like to try out these practices, we've created a [refactoring exercise](./docs/refactoring-exercise.md) which you can follow along. Starting with [a jupyter notebook with many code smells](notebooks/titanic-notebook-1.ipynb), you can apply these clean code principles and refactor it to be readable and maintainable. The sample final solution can be found in [`src/train.py`](src/train.py).
 
 ## Personal website: https://nvios.github.io/luca_bontempi/
+### Latest POC: <a href="https://luca-bontempi-object-detection.web.app/"><strong>Live Object Detection</strong></a>
